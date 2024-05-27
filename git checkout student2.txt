@@ -1,0 +1,7 @@
+[1mdiff --git a/student2.txt b/student2.txt[m
+[1mindex 7eb1103..fb2d90d 100644[m
+[1m--- a/student2.txt[m
+[1m+++ b/student2.txt[m
+[36m@@ -1 +1 @@[m
+[31m-you are a beautifull piece of art [m
+[32m+[m[32mkaono will be a bussiman soon[m
